@@ -90,4 +90,12 @@ Contoh code :
 
 Hasil Code :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/dea2fe6ee54c05e22ec326b2dd980bed1150e2d4/Cuplikan%20layar%202025-10-01%20001338.png)
+
+# 4. Jika Elemen Punya ID dan Class
+Kalau elemen punya ID dan Class sekaligus, ID lebih kuat daripada Class.
+Contoh kode di HTML:
+
+
+
 
