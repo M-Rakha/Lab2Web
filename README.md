@@ -46,3 +46,6 @@ Kemudian buat kode seperti yang ada di contoh pratikum
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/Cuplikan%20layar%202025-09-30%20231724.png)
 
+Sekarang buka file lab2_css_dasar.html tadi, Tambahin tag di dalam buat nyambungin ke file CSS eksternal
+
+
