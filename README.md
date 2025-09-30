@@ -22,7 +22,9 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya :
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/c5f6bf1fbf8f93a0723b260b0ae6c58559c39fd5/Cuplikan%20layar%202025-09-30%20110136.png)
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/c5f6bf1fbf8f93a0723b260b0ae6c58559c39fd5/Cuplikan%20layar%202025-09-30%20110210.png)
 
+Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 
 
 
