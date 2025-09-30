@@ -36,7 +36,10 @@ Kemudian tambahkan deklarasi inline CSS pada tag p seperti berikut.
 
 Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/9542da1c7f7ca3dc773c6df143996a3d9571cd71/Cuplikan%20layar%202025-09-30%20224129.png)
 
+# 4. Membuat CSS Eksternal
+Buatlah file baru dengan nama style_eksternal.css kemudian buatlah deklarasi CSS seperti berikut.
 
 
 
