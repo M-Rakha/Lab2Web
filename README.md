@@ -65,5 +65,13 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
 # Selesai, Terima Kasih.
 
+# PERTANYAAN & TUGAS :
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/96a2c8da0f79c3ea45456604e340f16227cfe6a7/Cuplikan%20layar%202025-09-30%20234555.png)
+
+# 1. Eksperimen Properti CSS
+Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.
+Contohnya:
+
 
 
