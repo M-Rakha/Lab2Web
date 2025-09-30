@@ -48,15 +48,18 @@ Kemudian buat kode seperti yang ada di contoh pratikum
 
 Sekarang buka file lab2_css_dasar.html tadi, Tambahin tag di dalam buat nyambungin ke file CSS eksternal
 
-[gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/code.png)
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/code.png)
 
 Tampilan hasil nya :
 
-[gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/Cuplikan%20layar%202025-09-30%20232532.png)
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/Cuplikan%20layar%202025-09-30%20232532.png)
 
 # 5. Menambahkan CSS Selector
 Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada file style_eksternal.css, tambahkan kode berikut.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233856.png)
+
+Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
 
 
