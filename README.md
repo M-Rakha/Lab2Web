@@ -77,7 +77,11 @@ Contohnya:
 
 Hasilnya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000106.png)
 
+2. Perbedaan h1 {…} dengan #intro h1 {…}
+h1 {…} → berlaku ke semua elemen di halaman.
+#intro h1 {…} → hanya berlaku untuk yang ada di dalam elemen dengan ID intro
 
 
 
