@@ -73,5 +73,11 @@ Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 Kita bisa mengubah atau menambahkan properti CSS biar tampilan halaman berubah.
 Contohnya:
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/8f3072e713998c4be1621dbf06eeb9d587fd2535/Cuplikan%20layar%202025-10-01%20000053.png)
+
+Hasilnya :
+
+
+
 
 
