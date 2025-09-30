@@ -48,4 +48,14 @@ Kemudian buat kode seperti yang ada di contoh pratikum
 
 Sekarang buka file lab2_css_dasar.html tadi, Tambahin tag di dalam buat nyambungin ke file CSS eksternal
 
+[gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/efa1dfd75127e85f51816f5a26d359c9560cbd15/code.png)
+
+Tampilan hasil nya :
+
+
+
+
+
+
+
 
