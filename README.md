@@ -26,6 +26,11 @@ Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokum
 
 Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk melihat hasilnya.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/c5f6bf1fbf8f93a0723b260b0ae6c58559c39fd5/Cuplikan%20layar%202025-09-30%20110226.png)
+
+# 3. Menambahkan Inline CSS
+Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+
 
 
 
