@@ -29,7 +29,10 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/c5f6bf1fbf8f93a0723b260b0ae6c58559c39fd5/Cuplikan%20layar%202025-09-30%20110226.png)
 
 # 3. Menambahkan Inline CSS
-Kemudian tambahkan deklarasi inline CSS pada tag <p> seperti berikut.
+Kemudian tambahkan deklarasi inline CSS pada tag p seperti berikut.
+
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/9542da1c7f7ca3dc773c6df143996a3d9571cd71/Cuplikan%20layar%202025-09-30%20223952.png)
+
 
 
 
