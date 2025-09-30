@@ -104,7 +104,7 @@ Contoh code di CSS
 
 Hasil nya :
 
-
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233835.png)
 
 Hasil: teks merah, karena aturan ID mengalahkan Class.
 
