@@ -61,7 +61,9 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 
 Kemudian simpan kembali dan refresh browser untuk melihat perubahannya :
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/52723fc9af873b28999bf536a8a13831595bb1b4/Cuplikan%20layar%202025-09-30%20233835.png)
 
+# Selesai, Terima Kasih.
 
 
 
