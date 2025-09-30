@@ -100,6 +100,13 @@ Contoh kode di HTML:
 
 Contoh code di CSS
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/096d7809a79643090cdf8121afea4afe833a1469/Cuplikan%20layar%202025-10-01%20002807.png)
+
+Hasil nya :
+
+
+
+Hasil: teks merah, karena aturan ID mengalahkan Class.
 
 
 
