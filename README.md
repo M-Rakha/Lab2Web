@@ -21,6 +21,8 @@ Selanjutnya buka pada brwoser untuk melihat hasilnya :
 # 2. Mendeklarasikan CSS Internal
 Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/c5f6bf1fbf8f93a0723b260b0ae6c58559c39fd5/Cuplikan%20layar%202025-09-30%20110136.png)
+
 
 
 
