@@ -32,6 +32,9 @@ Selanjutnya simpan perubahan yang ada, dan lakukan refresh pada browser untuk me
 Kemudian tambahkan deklarasi inline CSS pada tag p seperti berikut.
 
 ![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/9542da1c7f7ca3dc773c6df143996a3d9571cd71/Cuplikan%20layar%202025-09-30%20223952.png)
+![gambar](https://raw.githubusercontent.com/M-Rakha/Lab2Web/9542da1c7f7ca3dc773c6df143996a3d9571cd71/Cuplikan%20layar%202025-09-30%20224008.png)
+
+Simpan kembali dan refresh kembali browser untuk melihat perubahannya.
 
 
 
